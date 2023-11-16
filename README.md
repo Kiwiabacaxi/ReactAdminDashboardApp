@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the React Admin Dashboard App project! This is a practical undertaking as part of my computer engineering studies, inspired by the tutorial by [content creator's name](tutorial-link). The primary focus is on building a robust admin dashboard using React, Material UI, and other modern technologies.
+Welcome to the React Admin Dashboard App project! This is a practical undertaking as part of my computer engineering studies, inspired by the tutorial by [EdRoh](https://www.youtube.com/watch?v=wYpCWwD1oz0). The primary focus is on building a robust admin dashboard using React, Material UI, and other modern technologies.
 
 ## Key Features
 
